@@ -1,0 +1,11 @@
+---
+exo__Asset_isDefinedBy: "[[f6e01f7a-d727-494a-82a3-815597d33e86]]"
+exo__Asset_uid: 67d5d403-e31b-4b88-ba6c-810ca7fc2ae8
+exo__Asset_createdAt: 2026-05-10T11:05:00
+exo__Asset_updatedAt: 2026-05-10T11:05:00
+exo__Asset_createdBy: "[[de20a3f1-7483-4714-ab28-b45f5cf02c76|ExoAssistant]]"
+exo__Instance_class:
+  - "[[exo__StringProperty]]"
+exo__Property_domain: "[[3c06ca1b-653e-4cc7-af94-4e7871867431|ems__Initiative]]"
+exo__Property_description: "Short string ID для Initiative — например I1.1 (Pillar 1, Initiative 1) или F2 (Foundation 2). Mandatory, human-readable label."
+---

@@ -1,0 +1,12 @@
+---
+exo__Asset_isDefinedBy: "[[f6e01f7a-d727-494a-82a3-815597d33e86]]"
+exo__Asset_uid: 027cb3a2-243b-4cd7-97d0-978be6d70c2d
+exo__Asset_createdAt: 2026-05-10T11:05:00
+exo__Asset_updatedAt: 2026-05-16T19:18:00
+exo__Asset_createdBy: "[[de20a3f1-7483-4714-ab28-b45f5cf02c76|ExoAssistant]]"
+exo__Instance_class:
+  - "[[9a1cf31c-9d41-4ef3-9023-584a8d087d16]]"
+exo__Property_domain: "[[3c06ca1b-653e-4cc7-af94-4e7871867431|ems__Initiative]]"
+exo__Property_range: "[[bc625d52-b618-4a3d-bc01-e48434fe7f7b|ems__Pillar]]"
+exo__Property_description: "Wikilink на parent ems__Pillar. Cardinality 0..1 — обязателен только когда ems__Initiative_layer = 'pillar'; для Foundation initiatives отсутствует. UWI: child Initiative → parent Pillar."
+---

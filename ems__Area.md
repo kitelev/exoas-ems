@@ -1,0 +1,13 @@
+---
+exo__Asset_isDefinedBy: "[[f6e01f7a-d727-494a-82a3-815597d33e86]]"
+exo__Asset_uid: 82c74542-1b14-4217-b852-d84730484b25
+exo__Asset_createdAt: 2025-06-25T09:37:01
+exo__Instance_class:
+  - "[[exo__Class]]"
+exo-ims__relatesToConcept: "[[49e4b400-557e-4fa7-9f4a-0843cd0dc2da|49e4b400-557e-4fa7-9f4a-0843cd0dc2da]]"
+aliases:
+  - 82c74542-1b14-4217-b852-d84730484b25
+  - ems__Area
+exo__Class_superClass:
+  - "[[exo__Asset]]"
+---

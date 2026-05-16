@@ -1,0 +1,16 @@
+---
+exo__Asset_isDefinedBy: "[[f6e01f7a-d727-494a-82a3-815597d33e86]]"
+exo__Asset_createdAt: 2025-10-04T00:42:38
+exo__Asset_uid: 7db5eeff-718a-49b0-8d2b-39b084a356e3
+exo__Instance_class:
+  - "[[exo__Class]]"
+exo__Class_superClass:
+  - "[[086f71fa-dd30-4284-90cf-e609f2a6c461|ems__Effort]]"
+  - "[[ems__ParentEffort]]"
+exo-ims__relatesToConcept: "[[e94bbdaf-2f73-4dac-accb-b050f08e27d6|Project (EMS)]]"
+exo__Asset_label: ems__Project
+aliases:
+  - ems__Project
+---
+
+

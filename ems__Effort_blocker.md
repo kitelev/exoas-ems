@@ -1,0 +1,13 @@
+---
+exo__Asset_isDefinedBy: "[[f6e01f7a-d727-494a-82a3-815597d33e86]]"
+exo__Asset_uid: d9a56a56-e653-4931-b326-5a12bb238f0a
+exo__Asset_createdAt: 2025-10-03T14:59:10
+exo__Instance_class:
+  - "[[9a1cf31c-9d41-4ef3-9023-584a8d087d16|exo__ObjectProperty]]"
+exo__Property_domain: "[[086f71fa-dd30-4284-90cf-e609f2a6c461|ems__Effort]]"
+exo__Property_range: "[[086f71fa-dd30-4284-90cf-e609f2a6c461|ems__Effort]]"
+exo__Asset_relates:
+  - "[[Effort Blocker (EMS)]]"
+---
+
+

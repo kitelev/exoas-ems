@@ -1,0 +1,11 @@
+---
+exo__Asset_isDefinedBy: "[[f6e01f7a-d727-494a-82a3-815597d33e86]]"
+exo__Asset_uid: f6c941d7-30ce-4979-a964-55ac121e53c5
+exo__Asset_createdAt: 2026-05-10T11:05:00
+exo__Asset_updatedAt: 2026-05-10T11:05:00
+exo__Asset_createdBy: "[[de20a3f1-7483-4714-ab28-b45f5cf02c76|ExoAssistant]]"
+exo__Instance_class:
+  - "[[exo__StringProperty]]"
+exo__Property_domain: "[[bc625d52-b618-4a3d-bc01-e48434fe7f7b|ems__Pillar]]"
+exo__Property_description: "12-month strategic outcome statement для ems__Pillar — желаемое end-state, headline-level. Rich detail остаётся в body Outcome section."
+---

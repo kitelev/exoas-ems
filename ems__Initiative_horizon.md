@@ -1,0 +1,11 @@
+---
+exo__Asset_isDefinedBy: "[[f6e01f7a-d727-494a-82a3-815597d33e86]]"
+exo__Asset_uid: 7666d5c5-0819-423d-bac4-bde0d92aa495
+exo__Asset_createdAt: 2026-05-10T11:05:00
+exo__Asset_updatedAt: 2026-05-10T11:05:00
+exo__Asset_createdBy: "[[de20a3f1-7483-4714-ab28-b45f5cf02c76|ExoAssistant]]"
+exo__Instance_class:
+  - "[[exo__StringProperty]]"
+exo__Property_domain: "[[3c06ca1b-653e-4cc7-af94-4e7871867431|ems__Initiative]]"
+exo__Property_description: "Sprint/quarter horizon строка — S0, S1-2, S3-5, Q4, 2027-Q1. Mandatory, scheduling/forecast key."
+---

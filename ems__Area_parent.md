@@ -1,0 +1,9 @@
+---
+exo__Asset_isDefinedBy: "[[f6e01f7a-d727-494a-82a3-815597d33e86]]"
+exo__Asset_uid: 454b7385-5849-45cd-b59e-d45f7b624f4f
+exo__Asset_createdAt: 2025-07-01T11:14:26
+exo__Instance_class:
+  - "[[9a1cf31c-9d41-4ef3-9023-584a8d087d16|exo__ObjectProperty]]"
+exo__Property_domain: "[[ems__Area]]"
+exo__Property_range: "[[ems__Area]]"
+---

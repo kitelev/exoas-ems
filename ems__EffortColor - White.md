@@ -1,0 +1,7 @@
+---
+exo__Asset_isDefinedBy: "[[f6e01f7a-d727-494a-82a3-815597d33e86]]"
+exo__Asset_uid: 7a92b782-408c-4acd-9cad-afe7e03a3a10
+exo__Asset_createdAt: 2025-07-19T01:30:31
+exo__Instance_class:
+  - "[[ems__EffortColor]]"
+---

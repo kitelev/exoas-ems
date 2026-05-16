@@ -1,0 +1,13 @@
+---
+exo__Asset_isDefinedBy: "[[f6e01f7a-d727-494a-82a3-815597d33e86]]"
+exo__Asset_uid: cb1de122-e58c-497f-8a55-9ac7ee11a3ab
+exo__Asset_createdAt: 2025-07-20T12:47:05
+exo__Instance_class:
+  - "[[ems__TaskSize]]"
+exo__Asset_label: ems__TaskSize_XXS
+exo__schema_optionValue: "[[ems__TaskSize_XXS]]"
+exo__schema_optionLabel: XXS
+exo__schema_optionOrder: 10
+aliases:
+  - ems__TaskSize_XXS
+---

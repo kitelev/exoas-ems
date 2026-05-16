@@ -1,0 +1,9 @@
+---
+exo__Asset_isDefinedBy: "[[f6e01f7a-d727-494a-82a3-815597d33e86]]"
+exo__Asset_uid: 0de31167-5d31-4692-be55-281f5b3e5e3e
+exo__Asset_createdAt: 2025-07-16T22:30:19
+exo__Instance_class:
+  - "[[exo__BooleanProperty]]"
+exo__Property_domain: "[[ems__Task]]"
+exo-ims__relatesToConcept: "[[39cc5a67-43ac-4008-bc16-9bc622fd0df9|Importance]]"
+---

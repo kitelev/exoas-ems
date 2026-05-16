@@ -1,0 +1,12 @@
+---
+exo__Asset_isDefinedBy: "[[f6e01f7a-d727-494a-82a3-815597d33e86]]"
+exo__Asset_uid: 26373789-a716-4ce4-9a7d-ef9b2559a02c
+exo__Asset_createdAt: 2025-09-27T16:55:18
+exo__Instance_class:
+  - "[[exo__Class]]"
+exo-ims__relatesToConcept: "[[EMS Session Type]]"
+exo__Class_superClass:
+  - "[[exo__Asset]]"
+---
+
+
