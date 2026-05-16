@@ -5,5 +5,5 @@ exo__Asset_createdAt: 2026-04-05T14:00:00
 exo__Instance_class:
   - "[[69cb62c7-6313-447e-8568-7ff97ec5a118]]"
   - "[[a1f9bca8-6580-458c-bfdb-08579fe357e0]]"
-exo__Property_domain: "[[086f71fa-dd30-4284-90cf-e609f2a6c461|ems__Effort]]"
+exo__Property_domain: "[[086f71fa-dd30-4284-90cf-e609f2a6c461]]"
 ---
