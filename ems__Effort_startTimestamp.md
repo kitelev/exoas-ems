@@ -1,9 +1,0 @@
----
-exo__Asset_isDefinedBy: "[[f6e01f7a-d727-494a-82a3-815597d33e86]]"
-exo__Asset_uid: 0c52de78-a6f2-4e3b-86c8-6794cb8476d1
-exo__Asset_createdAt: 2025-07-20T18:26:30
-exo__Instance_class:
-  - "[[exo__TimestampProperty]]"
-  - "[[exo__NonInheritableProperty]]"
-exo__Property_domain: "[[086f71fa-dd30-4284-90cf-e609f2a6c461|ems__Effort]]"
----
