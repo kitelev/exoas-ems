@@ -7,4 +7,7 @@ exo__Instance_class:
 exo__Property_superProperty: "[[422d4a18-a6d4-46b9-8c74-5a16a1a837a1]]"
 exo__Property_domain: "[[809410e2-a92a-49d2-b463-2fd7206f3adb]]"
 exo__Property_range: "[[a298703f-3113-44fa-acf9-bc7d02d67040]]"
+exo__Asset_label: ems__DailyOKRs_day
+aliases:
+  - ems__DailyOKRs_day
 ---
