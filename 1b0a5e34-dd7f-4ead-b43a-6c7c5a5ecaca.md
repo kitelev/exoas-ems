@@ -6,7 +6,6 @@ exo__Instance_class:
   - "[[8619c4fc-64f1-4869-b17e-e34186cacca9]]"
 exo__Class_superClass:
   - "[[1b20a8f0-d745-4e93-91db-4531b3df120e]]"
-exo-ims__relatesToConcept: "[[a2164cb5-31b9-44cf-afa9-ad0fd7ec5372]]"
 exo__Asset_label: ems__Meeting
 aliases:
   - ems__Meeting
